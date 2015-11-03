@@ -1,0 +1,207 @@
+
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Åpen sone for eksperimentell informatikk er et studentlaboratorium ved Institutt for informatikk, Universitetet i Oslo. Et prosjektbasert møtested for engasjerte og nysgjerrige studenter, en annerledes læringsomgivelse og et kreativt lekerom.
+
+**Utforsk gjerne (link: http://sonen.ifi.uio.no/wiki/%C3%85pen_sone_for_eksperimentell_informatikk text: Sonens wiki)!**">
+    <meta name="keywords" content="Åpen sone, sonen, studlab, studentlab, studentlaboratorium, student oslo, informatikk, arduino, makerspace, hackerspace, workshop, meetup, ifi, uio, ojd, ole-johan dahls hus, bindern">
+    <meta name="robots" content="index, follow">
+    <link rel="icon" href="http://sonen.ifi.uio.no:80/assets/img/footer-ikon.png">
+    <title>Åpen sone ved institutt for informatikk</title>
+
+    <link rel="stylesheet" href="http://sonen.ifi.uio.no:80/vendor/css/bootstrap/bootstrap.min.css" /><link rel="stylesheet" href="http://sonen.ifi.uio.no:80/assets/css/font-awesome.min.css" /><link rel="stylesheet" href="http://sonen.ifi.uio.no:80/assets/css/new.css" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+    <nav class="navbar center navbar-static-top" role="navigation">
+
+        <div class="container navbar-inner">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Veksle navigasjon</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" href="http://sonen.ifi.uio.no:80">
+                    <img src="http://sonen.ifi.uio.no:80/assets/img/logo-new.png" alt="ÅPEN SONE logo">
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                 <ul class="nav navbar-nav navbar-right">
+                     <li class="social">
+                        
+                             <span class="fa-stack fa-3x">
+                              <a href="https://www.facebook.com/ifisonen">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x"></i>
+                              </a>
+                            </span>
+                        
+                        
+                            <span class="fa-stack fa-3x">
+                                <a href="https://twitter.com/UniOslo_Sonen">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        
+                     </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+
+    </nav>
+
+
+<div class="container">
+    <div class="row">
+        <div class="content col-md-8">
+            <section class="blog">
+
+                <h1>Blogg</h1>
+                
+                
+                    <article>
+                        <h1>H&oslash;stsemester</h1>
+                        <p>Nå begynner vi igjen. Utover høsten vil vi ha mange fine foredrag og opplegg og det vil sikkert bli noe som passer alle. Blandt annet planlegger vi å ha en prosjektveiledning / idemyldringskveld snart.  Onsdag den 12. og fredag blir det workshops for de nye studentene. Det blir programmering i pr…</p>
+                        <a href="http://sonen.ifi.uio.no:80/blog/nytt-studiear">Les mer…</a>
+                    </article>
+
+                
+                    <article>
+                        <h1>Verksted i IBM Bluemix</h1>
+                        <p>IBM Bluemix er en cloud-PaaS (Platform as a Service) for utvikling av desktop-, mobil- og webapplikasjoner. IBM Bluemix støtter forskjellige teknologier gjennom et bredt spekter av tjenester. I løpet av en 3-timers workshop vil du få muligheten til lære å bruke IBM Bluemix: hjelp til oppsett, samt veil…</p>
+                        <a href="http://sonen.ifi.uio.no:80/blog/verksted-i-ibm-bluemix">Les mer…</a>
+                    </article>
+
+                
+                    <article>
+                        <h1>Simula</h1>
+                        <p>Foiler, programmer og annen informasjon fra introduksjonen til Simula som ble arrangert i Sonen 3. mars 2015 med Stein Krogdahl kan du finne her: http://folk.uio.no/veronahe/simula/</p>
+                        <a href="http://sonen.ifi.uio.no:80/blog/simula">Les mer…</a>
+                    </article>
+
+                
+                    <article>
+                        <h1>Tegning i TikZ</h1>
+                        <p>Tirsdag 10. februar arrangerte vi et introduksjonskurs i tegning med pakken TikZ for LaTeX. For dere som ikke fikk med dere dette, så finnes det et kompendium som tar for seg det som ble gjennomgått i kurset (og litt til). Kompendiet finner du her. Det ble dessverre ikke tatt opp podcast av kurset, m…</p>
+                        <a href="http://sonen.ifi.uio.no:80/blog/tikz">Les mer…</a>
+                    </article>
+
+                
+            </section>
+        </div>
+
+        
+    </div>
+
+</div>
+
+    <footer class="footer container-fluid">
+        <div class="container">
+        <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '285883458291',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+            <div class="row">
+                <div class="contact col-sm-5">
+                    <div class="row">
+                        <div class="col-sm-5 col-md-4" style="text-align: center;">
+                            <img src="http://sonen.ifi.uio.no:80/assets/img/footer-ikon.png" alt="" style="height:122px;">
+                        </div>
+                        <div class="contact-text col-sm-7 col-md-8">
+                            <strong>Åpen sone for eksperimentell informatikk</strong><br>
+                            ved Universitetet i Oslo<br>
+                            Rom 3407 i Ole-Johan Dahls hus<br>
+                            <a href="mailto:ifi-sonen@ifi.uio.no">ifi-sonen@ifi.uio.no</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <ul>
+                                                <li>
+                            <a class="active" href="http://sonen.ifi.uio.no:80/blog">Blogg</a>
+                                                            <ul class="menu-children-pages">
+                                                                    <li><a href="http://sonen.ifi.uio.no:80/blog/apent-mote">&Aring;pent m&oslash;te</a></li>
+                                                                        <li><a href="http://sonen.ifi.uio.no:80/blog/nytt-studiear">H&oslash;stsemester</a></li>
+                                                                        <li><a href="http://sonen.ifi.uio.no:80/blog/verksted-i-ibm-bluemix">Verksted i IBM Bluemix</a></li>
+                                                                    </ul>
+                                                    </li>
+                                            </ul>
+                </div>
+                <div class="col-sm-2">
+                    <ul>
+                        <li><a href="http://sonen.ifi.uio.no/wiki/%C3%85pen_sone_for_eksperimentell_informatikk">Wiki</a>
+                            <ul class="menu-children-pages">
+                                <li><a href="http://sonen.ifi.uio.no/wiki/i_Sonen">Ting du finner i Sonen</a></li></ul>
+                        </li>
+                        <li><div class="fb-like" data-href="http://sonen.ifi.uio.no" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div></li>
+                        
+                        <li><a href="https://twitter.com/UniOslo_Sonen" class="twitter-follow-button" data-show-count="false" data-lang="no" data-dnt="true">Følg @UniOslo_Sonen</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3" style="text-align: center;">
+                    <div class="newsletter panel">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Nyhetsbrev</h4>
+                        </div>
+                        <div class="panel-body">
+                            <!--div class="input-group">
+                                <span class="input-group-addon">@</span>
+                                <input type="text" class="form-control" placeholder="Skriv epost-adressen din her">
+                            </div-->
+                            <button class="btn btn-danger btn-lg" type="button" aria-expanded="false">
+                                <a href="mailto:sympa@ifi.uio.no?subject=subscribe%20sone-info">MELD MEG PÅ</a>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+<script src="http://sonen.ifi.uio.no:80/vendor/js/jquery.min.js"></script><script src="http://sonen.ifi.uio.no:80/vendor/js/bootstrap/bootstrap.min.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-48837984-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
